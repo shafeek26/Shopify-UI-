@@ -4,7 +4,7 @@
 
 # Project Name : Shopify UI clone !
 
-In this project i have created a Paytm UI clone  from scratch. And i have learnt a lot of things like i used fully flexbox and grid in this project. This created with pure Tailwind CSS.
+In this project i have created a Shopify UI clone  from scratch. And i have learnt a lot of things like i used fully flexbox and grid in this project. This created with pure Tailwind CSS.
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![images](https://img.shields.io/badge/-Tailwind%20CSS-brightgreen)
